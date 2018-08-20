@@ -10,3 +10,5 @@ https://youtu.be/DNO8TyHbdEE
 https://youtu.be/-Q9xTy2N9l4
 
 ## PIXY
+https://youtu.be/5a59gxUQsGY
+https://youtu.be/G5zB15PsEl0
