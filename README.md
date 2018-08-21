@@ -21,7 +21,7 @@ We won booth fights!!!
 ## PIXY
 
 
-[![BATTLE1](http://img.youtube.com/vi/DNO8TyHbdEE/0.jpg)](https://youtu.be/5a59gxUQsGY)
+[![BATTLE1](http://img.youtube.com/vi/5a59gxUQsGY/0.jpg)](https://youtu.be/5a59gxUQsGY)
 
 **Share the video with:** [https://youtu.be/5a59gxUQsGY](https://youtu.be/5a59gxUQsGY "https://youtu.be/5a59gxUQsGY")
 
