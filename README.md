@@ -19,7 +19,8 @@ We won booth fights!!!
 **Share the video with:** [https://youtu.be/-Q9xTy2N9l4](https://youtu.be/-Q9xTy2N9l4 "https://youtu.be/-Q9xTy2N9l4")
 
 ## PIXY
-
+Changing a bit the path of the proyect we changed the ColdPlay's hardware, removing some of the [Compluino03 board](http://complubot.com/inicio/proyectos/compluino-03/ "Compluino03 board") pieces and adding to it some custom ones. Mainly we added a [pixy](https://pixycam.com/pixy-cmucam5/ "pixy") camera, some leds to increare the brightness of the image on close distances and a servo controller to move the camera up and down in the pan and till we created and to open and close a gripper.
+The goal of the project now was to make an object classier wich could distinguish three different pieces and could find them, grab them and carry them to an specific spot marked by a specific color where the robot should release the piece.
 
 [![BATTLE1](http://img.youtube.com/vi/5a59gxUQsGY/0.jpg)](https://youtu.be/5a59gxUQsGY)
 
@@ -28,7 +29,6 @@ We won booth fights!!!
 [![BATTLE2](http://img.youtube.com/vi/G5zB15PsEl0/0.jpg)](https://youtu.be/G5zB15PsEl0)
 
 **Share the video with:** [https://youtu.be/G5zB15PsEl0](https://youtu.be/G5zB15PsEl0 "https://youtu.be/G5zB15PsEl0")
-
 
 
 
