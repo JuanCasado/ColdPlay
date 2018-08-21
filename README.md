@@ -4,7 +4,7 @@ This is a of a hole year of work at Complubot (2018).
 You can see an iterative process of learning along the three projects done.
 
 ## Bluetooth
-In this first aproach to the problem we worked with the HC-05 
+In this first aproach to the problem we worked with the [HC-05 Bluetooth module](https://aprendiendoarduino.wordpress.com/tag/hc-05/ "HC-05 Bluetooth module") and the AT commands. We made a robot based on the Compluino 03 board 
 
 ## Camareros y ladrones
 https://youtu.be/DNO8TyHbdEE
