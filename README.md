@@ -38,7 +38,7 @@ The goal of the project now was to make an object classier wich could distinguis
 ![Complubot](./DATA/images/ENTORNO_2.png "Complubot")
 ![Complubot](./DATA/images/ENTORNO_3.png "Complubot")
 ![Complubot](./DATA/images/PIXY_COMPLUBOT.png "Complubot")
-![Complubot](./DATA/images/untilted.png "Complubot")
+![Complubot](./DATA/images/Untilted.png "Complubot")
 
 Project done by Juan Casado Ballesteros
 
