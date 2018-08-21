@@ -11,7 +11,9 @@ At this point we wanted to prove that the [Compluino03 board](http://complubot.c
 We won booth fights!!!
 
 [![BATTLE1](http://img.youtube.com/vi/DNO8TyHbdEE/0.jpg)](https://youtu.be/DNO8TyHbdEE)
+
 **Share the video with:** [https://youtu.be/DNO8TyHbdEE](https://youtu.be/DNO8TyHbdEE "https://youtu.be/DNO8TyHbdEE")[![BATTLE2](http://img.youtube.com/vi/-Q9xTy2N9l4/0.jpg)](https://youtu.be/-Q9xTy2N9l4)
+
 **Share the video with:** [https://youtu.be/-Q9xTy2N9l4](https://youtu.be/-Q9xTy2N9l4 "https://youtu.be/-Q9xTy2N9l4")
 
 ## PIXY
