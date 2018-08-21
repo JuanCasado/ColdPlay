@@ -19,5 +19,13 @@ We won booth fights!!!
 **Share the video with:** [https://youtu.be/-Q9xTy2N9l4](https://youtu.be/-Q9xTy2N9l4 "https://youtu.be/-Q9xTy2N9l4")
 
 ## PIXY
-https://youtu.be/5a59gxUQsGY
-https://youtu.be/G5zB15PsEl0
+
+
+[![BATTLE1](http://img.youtube.com/vi/DNO8TyHbdEE/0.jpg)](https://youtu.be/5a59gxUQsGY)
+
+**Share the video with:** [https://youtu.be/5a59gxUQsGY](https://youtu.be/5a59gxUQsGY "https://youtu.be/5a59gxUQsGY")
+
+[![BATTLE2](http://img.youtube.com/vi/G5zB15PsEl0/0.jpg)](https://youtu.be/G5zB15PsEl0)
+
+**Share the video with:** [https://youtu.be/G5zB15PsEl0](https://youtu.be/G5zB15PsEl0 "https://youtu.be/G5zB15PsEl0")
+
