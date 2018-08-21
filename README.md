@@ -30,7 +30,15 @@ The goal of the project now was to make an object classier wich could distinguis
 
 **Share the video with:** [https://youtu.be/G5zB15PsEl0](https://youtu.be/G5zB15PsEl0 "https://youtu.be/G5zB15PsEl0")
 
-
+![Complubot](./DATA/images/FRONTAL.png "Complubot")
+![Complubot](./DATA/images/LATERAL.png "Complubot")
+![Complubot](./DATA/images/UP.png "Complubot")
+![Complubot](./DATA/images/ENTORNO.png "Complubot")
+![Complubot](./DATA/images/CAMPO.png "Complubot")
+![Complubot](./DATA/images/ENTORNO_2.png "Complubot")
+![Complubot](./DATA/images/ENTORNO_3.png "Complubot")
+![Complubot](./DATA/images/PIXY_COMPLUBOT.png "Complubot")
+![Complubot](./DATA/images/untilted.png "Complubot")
 
 Project done by Juan Casado Ballesteros
 
