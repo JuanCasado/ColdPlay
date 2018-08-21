@@ -3,6 +3,8 @@
 This is a of a hole year of work at Complubot (2018).
 You can see an iterative process of learning along the three projects done.
 
+[View final project in prezi (Spanish)](https://prezi.com/view/7CX09OP0vpYkgNWxYrQD/ "prezi")
+
 ## Bluetooth
 In this first aproach to the problem we worked with the [HC-05 Bluetooth module](https://aprendiendoarduino.wordpress.com/tag/hc-05/ "HC-05 Bluetooth module") and the AT commands. We made a robot based on the [Compluino03 board](http://complubot.com/inicio/proyectos/compluino-03/ "Compluino03 board"). One we had that we started making some custom hardware to the board like allowing it to receive arduino compiled code through the bluetooth module to the serial port in a wireless way. [Tutorial in spanish](https://forum.arduino.cc/index.php?topic=418175.0 "Tutorial in spanish")
 
