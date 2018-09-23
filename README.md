@@ -1,7 +1,7 @@
 # Coldplay
 
-This is a of a hole year of work at Complubot (2018).
-You can see an iterative process of learning along the three projects done.
+This is a hole year of work at Complubot (2018).
+You can see an iterative process of learning along three different iterations.
 
 [View final project in prezi (Spanish)](https://prezi.com/view/7CX09OP0vpYkgNWxYrQD/ "prezi")
 
